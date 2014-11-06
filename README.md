@@ -1,7 +1,9 @@
 BoardCPP
 ========
 
-CPP program for playing board game with a terminal
+CPP program for playing board games with a terminal. 
+Each game can be played againt AI.  
+**Note**: this program was made for school and has stayed in French. Feel free to add more languages! 
 
 ## Games 
 
